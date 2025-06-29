@@ -18,7 +18,7 @@ body{
     width: 100px;
 }
 .logo{
-    background-image: url(amazon_logo.png);
+    background-image: url(Images/amazon_logo.png);
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -190,7 +190,7 @@ input{
 .content{
     height: 400px;
     width: 100%;
-    background-image: url(hero_image.jpg);
+    background-image:url(Images/hero_image.jpg);
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -230,7 +230,7 @@ input{
     border: 2px solid rgb(140, 195, 192);
 }
 .image1{
-    background-image: url(box1_image.jpg);
+    background-image:url(Images/box1_image.jpg);
     background-size: cover;
     height: 300px;
     width: 330px;
@@ -241,7 +241,7 @@ input{
 }
 
 .image2{
-    background-image: url(box2_image.jpg);
+    background-image: url(Images/box2_image.jpg);
     background-size: cover;
     height: 300px;
     width: 330px;
@@ -252,7 +252,7 @@ input{
 }
 
 .image3{
-    background-image: url(box3_image.jpg);
+    background-image:url(Images/box3_image.jpg);
     background-size: cover;
     height: 300px;
     width: 330px;
@@ -263,7 +263,7 @@ input{
 }
 
 .image4{
-    background-image: url(box4_image.jpg);
+    background-image: url(Images/box4_image.jpg);
     background-size: cover;
     height: 300px;
     width: 330px;
@@ -282,7 +282,7 @@ input{
 }
 
 .image5{
-    background-image: url(box5_image.jpg);
+    background-image: url(Images/box5_image.jpg);
     background-size: cover;
     height: 300px;
     width: 330px;
@@ -293,7 +293,7 @@ input{
 }
 
 .image6{
-    background-image: url(box6_image.jpg);
+    background-image: url(Images/box6_image.jpg);
     background-size: cover;
     height: 300px;
     width: 330px;
@@ -304,7 +304,7 @@ input{
 }
 
 .image7{
-    background-image: url(box7_image.jpg);
+    background-image: url(Images/box7_image.jpg);
     background-size: cover;
     height: 300px;
     width: 330px;
@@ -315,7 +315,7 @@ input{
 }
 
 .image8{
-    background-image: url(box8_image.jpg);
+    background-image:url(Images/box8_image.jpg);
     background-size: cover;
     height: 300px;
     width: 330px;
